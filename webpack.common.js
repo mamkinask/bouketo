@@ -124,10 +124,10 @@ new HtmlWebpackPlugin({
       template: './src/clause/interior.html',
       filename: './clause/interior.html',
     }),
-    new HtmlWebpackPlugin({
-      template: './src/langflo/colorvalues.html',
-      filename: './langflo/colorvalues.html',
-    }),
+    // new HtmlWebpackPlugin({
+    //   template: './src/langflo/colorvalues.html',
+    //   filename: './langflo/colorvalues.html',
+    // }),
     // new HtmlWebpackPlugin({
     //   template: './src/aboutpr/info.html',
     //   filename: './aboutpr/info.html',
